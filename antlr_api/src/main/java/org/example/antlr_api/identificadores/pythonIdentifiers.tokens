@@ -1,0 +1,13 @@
+Letter=1
+Digit=2
+OpenParenthesis=3
+ClosingParenthesis=4
+EqualSign=5
+InputWord=6
+DataType=7
+WS=8
+'('=3
+')'=4
+'='=5
+'input'=6
+'int'=7
